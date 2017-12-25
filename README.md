@@ -1,4 +1,4 @@
 # SampleLite
 A preliminary project for:
-..* testing workflow,
-..* documenting requirements
+* testing workflow,
+* documenting requirements
